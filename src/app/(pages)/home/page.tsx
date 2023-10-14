@@ -277,7 +277,7 @@ const Homepage = () => {
               src="/assets/robot.gif" ////TODO: CHANGE
               alt=""
             />
-            <Image src="" id="robot-hand" className="robot-hand" alt="" />
+            {/* <Image src="robot" id="robot-hand" className="robot-hand" alt="" /> */}
           </div>
         </div>
 

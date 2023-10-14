@@ -1,5 +1,4 @@
 const $playerScore = document.querySelector('#score1');
-const $playerVideo = document.querySelector('#player-video');
 const $playerHand = document.querySelector('#player-hand');
 
 const $robotScore = document.querySelector('#score2');
